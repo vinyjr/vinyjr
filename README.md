@@ -8,7 +8,7 @@
 <p>
   Hi 👋, I'm Vini! A passionate Computer Science student from Brazil.
 
-  - 🖥 I’m currently studying html, css and Javascript!
+  - 🖥 I’m currently studying React.js and MySQL!
 
   - 🔭 I am looking for my first job opportunity. My goal is to work as a front-end developer in my first job.
 </p>
